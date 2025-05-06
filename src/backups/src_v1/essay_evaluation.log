@@ -1,0 +1,456 @@
+2025-05-03 11:48:10,243 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-03 11:48:11,043 - INFO - Loaded 5 samples from dataset
+2025-05-03 11:48:11,044 - INFO - Preprocessing asap dataset
+2025-05-03 11:48:11,044 - INFO - Preprocessing ASAP dataset
+2025-05-03 11:48:11,044 - INFO - Split dataset into 1 essay sets
+2025-05-03 11:48:11,044 - INFO - Processing essay set: asap-essayset1
+2025-05-03 11:49:47,613 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-03 11:49:48,448 - INFO - Loaded 5 samples from dataset
+2025-05-03 11:49:48,448 - INFO - Preprocessing asap dataset
+2025-05-03 11:49:48,448 - INFO - Preprocessing ASAP dataset
+2025-05-03 11:49:48,448 - INFO - Split dataset into 1 essay sets
+2025-05-03 11:49:48,449 - INFO - Processing essay set: asap-essayset1
+2025-05-03 11:49:48,449 - INFO - Evaluating 5 essays
+2025-05-03 11:49:48,516 - INFO - Evaluating essay 1/5
+2025-05-03 11:49:54,507 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:50:13,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:50:27,525 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:50:47,673 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:51:02,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:51:12,741 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:51:23,482 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:51:34,460 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:51:50,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:52:11,151 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:52:11,328 - INFO - Completed evaluation for essay 1
+2025-05-03 11:52:11,328 - INFO - Evaluating essay 2/5
+2025-05-03 11:52:17,553 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:52:53,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:53:10,498 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:53:23,803 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:53:40,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:53:52,415 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:54:03,893 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:54:13,285 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:54:22,631 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:54:36,986 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:54:37,229 - INFO - Completed evaluation for essay 2
+2025-05-03 11:54:37,229 - INFO - Evaluating essay 3/5
+2025-05-03 11:54:43,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:54:57,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:55:12,975 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:55:30,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:55:53,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:56:01,212 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:56:09,393 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:56:15,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:56:24,547 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:56:40,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:56:40,759 - INFO - Completed evaluation for essay 3
+2025-05-03 11:56:40,760 - INFO - Evaluating essay 4/5
+2025-05-03 11:56:50,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:57:14,880 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:57:31,108 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:57:48,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:58:07,016 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:58:16,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:58:26,858 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:58:41,314 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:58:49,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:59:05,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:59:05,583 - INFO - Completed evaluation for essay 4
+2025-05-03 11:59:05,583 - INFO - Evaluating essay 5/5
+2025-05-03 11:59:10,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:59:31,660 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 11:59:49,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:00:07,455 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:00:23,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:00:32,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:00:44,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:00:55,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:01:03,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:01:25,970 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:01:25,972 - INFO - Completed evaluation for essay 5
+2025-05-03 12:01:25,972 - INFO - Analyzing evaluation results
+2025-05-03 12:05:48,355 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-03 12:05:49,175 - INFO - Loaded 1 samples from dataset
+2025-05-03 12:05:49,175 - INFO - Preprocessing asap dataset
+2025-05-03 12:05:49,175 - INFO - Preprocessing ASAP dataset
+2025-05-03 12:05:49,175 - INFO - Split dataset into 1 essay sets
+2025-05-03 12:05:49,175 - INFO - Processing essay set: asap-essayset1
+2025-05-03 12:05:49,175 - INFO - Evaluating 1 essays
+2025-05-03 12:05:49,240 - INFO - Evaluating essay 1/1
+2025-05-03 12:05:55,844 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:06:17,687 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:06:33,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:06:48,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:03,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:11,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:18,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:26,069 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:36,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:54,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 12:07:54,929 - INFO - Completed evaluation for essay 1
+2025-05-03 12:07:54,929 - INFO - Analyzing evaluation results
+2025-05-03 12:14:38,740 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-03 12:14:39,555 - INFO - Loaded 1 samples from dataset
+2025-05-03 12:14:39,556 - INFO - Preprocessing asap dataset
+2025-05-03 12:14:39,556 - INFO - Preprocessing ASAP dataset
+2025-05-03 12:14:39,556 - INFO - Split dataset into 1 essay sets
+2025-05-03 12:14:39,556 - INFO - Processing essay set: asap-essayset1
+2025-05-03 12:14:39,556 - INFO - Evaluating 1 essays
+2025-05-03 12:17:05,997 - INFO - Analyzing evaluation results
+2025-05-03 12:17:06,003 - INFO - Completed analysis of evaluation results
+2025-05-03 12:18:29,792 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-03 12:18:30,649 - INFO - Loaded 1 samples from dataset
+2025-05-03 12:18:30,649 - INFO - Preprocessing asap dataset
+2025-05-03 12:18:30,649 - INFO - Preprocessing ASAP dataset
+2025-05-03 12:18:30,649 - INFO - Split dataset into 1 essay sets
+2025-05-03 12:18:30,649 - INFO - Processing essay set: asap-essayset1
+2025-05-03 12:18:30,649 - INFO - Evaluating 1 essays
+2025-05-03 12:20:36,952 - INFO - Analyzing evaluation results
+2025-05-03 12:20:36,958 - INFO - Completed analysis of evaluation results
+2025-05-03 12:26:35,060 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-03 12:26:35,873 - INFO - Loaded 1 samples from dataset
+2025-05-03 12:26:35,873 - INFO - Preprocessing asap dataset
+2025-05-03 12:26:35,873 - INFO - Preprocessing ASAP dataset
+2025-05-03 12:26:35,873 - INFO - Split dataset into 1 essay sets
+2025-05-03 12:26:35,873 - INFO - Processing essay set: asap-essayset1
+2025-05-03 12:26:35,873 - INFO - Evaluating 1 essays
+2025-05-03 12:28:47,610 - INFO - Analyzing evaluation results
+2025-05-03 12:28:47,616 - INFO - Completed analysis of evaluation results
+2025-05-03 12:28:47,622 - INFO - Saved evaluation results to /home/jinhee/NC/results/asap_essayset1_20250503_122847
+2025-05-03 12:28:47,622 - INFO - Completed processing essay set asap-essayset1
+2025-05-04 10:41:47,151 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-04 10:41:48,274 - INFO - Loaded 1 samples from dataset
+2025-05-04 10:41:48,275 - INFO - Preprocessing asap dataset
+2025-05-04 10:41:48,275 - INFO - Preprocessing ASAP dataset
+2025-05-04 10:41:48,275 - INFO - Split dataset into 1 essay sets
+2025-05-04 10:41:48,275 - INFO - Processing essay set: asap-essayset1
+2025-05-04 10:41:48,275 - INFO - Evaluating 1 essays
+2025-05-04 12:28:28,405 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-04 12:28:29,205 - INFO - Loaded 1 samples from dataset
+2025-05-04 12:28:29,206 - INFO - Preprocessing asap dataset
+2025-05-04 12:28:29,206 - INFO - Preprocessing ASAP dataset
+2025-05-04 12:28:29,206 - INFO - Split dataset into 1 essay sets
+2025-05-04 12:28:29,206 - INFO - Processing essay set: asap-essayset1
+2025-05-04 12:28:29,206 - INFO - Evaluating 1 essays
+2025-05-04 12:30:47,585 - INFO - Analyzing evaluation results
+2025-05-04 12:30:47,590 - INFO - Completed analysis of evaluation results
+2025-05-04 12:30:47,594 - INFO - Saved evaluation results to /home/jinhee/NC/results/asap_essayset1_20250504_123047
+2025-05-04 12:30:47,595 - INFO - Completed processing essay set asap-essayset1
+2025-05-04 12:44:22,589 - INFO - Loading dataset from /home/jinhee/NC/Intern-project-AES/datasets/preprocessed_essays.jsonl
+2025-05-04 12:44:23,513 - INFO - Loaded 12978 samples from dataset
+2025-05-04 12:44:23,513 - INFO - Preprocessing asap dataset
+2025-05-04 12:44:23,513 - INFO - Preprocessing ASAP dataset
+2025-05-04 12:44:23,521 - INFO - Split dataset into 8 essay sets
+2025-05-04 12:44:23,540 - INFO - Processing essay set: asap-essay_set_1
+2025-05-04 12:44:23,540 - INFO - Evaluating 1 essays
+2025-05-04 12:46:55,783 - INFO - Analyzing evaluation results
+2025-05-04 12:46:55,788 - INFO - Completed analysis of evaluation results
+2025-05-04 12:46:55,793 - INFO - Saved evaluation results to /home/jinhee/NC/results/asap_essay_set_1_20250504_124655
+2025-05-04 12:46:55,793 - INFO - Completed processing essay set asap-essay_set_1
+2025-05-04 12:46:55,793 - INFO - Processing essay set: asap-essay_set_2
+2025-05-04 12:46:55,793 - INFO - Evaluating 1 essays
+2025-05-04 12:49:19,760 - INFO - Analyzing evaluation results
+2025-05-04 12:49:19,763 - INFO - Completed analysis of evaluation results
+2025-05-04 12:49:19,768 - INFO - Saved evaluation results to /home/jinhee/NC/results/asap_essay_set_2_20250504_124919
+2025-05-04 12:49:19,769 - INFO - Completed processing essay set asap-essay_set_2
+2025-05-04 12:49:19,769 - INFO - Processing essay set: asap-essay_set_3
+2025-05-04 12:49:19,769 - INFO - Evaluating 1 essays
+2025-05-04 14:06:29,742 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:06:29,850 - INFO - Loaded 1 samples from dataset
+2025-05-04 14:06:29,850 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:06:29,850 - INFO - Evaluating 1 essays
+2025-05-04 14:08:07,198 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:08:07,295 - INFO - Loaded 1 samples from dataset
+2025-05-04 14:08:07,296 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:08:07,296 - INFO - Evaluating 1 essays
+2025-05-04 14:11:04,744 - INFO - Analyzing evaluation results
+2025-05-04 14:11:04,749 - INFO - Completed analysis of evaluation results
+2025-05-04 14:11:04,753 - INFO - Saved evaluation results to ../results/asap_1_20250504_141104
+2025-05-04 14:11:04,753 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:13:34,833 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:13:34,929 - INFO - Loaded 1 samples from dataset
+2025-05-04 14:13:34,929 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 14:13:34,929 - INFO - Evaluating 1 essays
+2025-05-04 15:16:08,366 - INFO - Loading dataset from ../datasets/asap_essay_set_{1..8}.jsonl
+2025-05-04 15:17:24,122 - INFO - Loading dataset from ../datasets/asap_essay_set_{1..8}.jsonl
+2025-05-04 15:17:39,458 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-04 15:17:39,557 - INFO - Loaded 10 samples from dataset
+2025-05-04 15:17:39,557 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 15:17:39,558 - INFO - Evaluating 10 essays
+2025-05-04 15:21:13,107 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-04 15:21:13,205 - INFO - Loaded 10 samples from dataset
+2025-05-04 15:21:13,205 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 15:21:13,205 - INFO - Evaluating 10 essays
+2025-05-04 15:48:47,915 - INFO - Analyzing evaluation results
+2025-05-04 15:48:47,928 - INFO - Completed analysis of evaluation results
+2025-05-04 15:48:47,968 - INFO - Saved evaluation results to ../results/asap_1_20250504_154847
+2025-05-04 15:48:47,968 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-04 15:48:50,837 - INFO - Loading dataset from ../datasets/asap_essay_set_2.jsonl
+2025-05-04 15:48:51,050 - INFO - Loaded 10 samples from dataset
+2025-05-04 15:48:51,050 - INFO - Processing essay: ../datasets/asap_essay_set_2.jsonl
+2025-05-04 15:48:51,050 - INFO - Evaluating 10 essays
+2025-05-04 16:13:45,970 - INFO - Analyzing evaluation results
+2025-05-04 16:13:45,978 - INFO - Completed analysis of evaluation results
+2025-05-04 16:13:46,010 - INFO - Saved evaluation results to ../results/asap_2_20250504_161345
+2025-05-04 16:13:46,010 - INFO - Completed processing essay: ../datasets/asap_essay_set_2.jsonl
+2025-05-04 16:13:47,940 - INFO - Loading dataset from ../datasets/asap_essay_set_3.jsonl
+2025-05-04 16:13:48,054 - INFO - Loaded 10 samples from dataset
+2025-05-04 16:13:48,054 - INFO - Processing essay: ../datasets/asap_essay_set_3.jsonl
+2025-05-04 16:13:48,054 - INFO - Evaluating 10 essays
+2025-05-04 16:17:38,736 - ERROR - Error parsing JSON response from persona Dr. Emily Carter's scoring generation.
+2025-05-04 16:17:38,736 - WARNING - Skipping: Scoring failed.
+2025-05-04 16:17:38,736 - WARNING - Skipping essay 1: Evaluation failed. Probably because of parssing issue.
+2025-05-04 16:31:45,933 - INFO - Analyzing evaluation results
+2025-05-04 16:31:45,940 - INFO - Completed analysis of evaluation results
+2025-05-04 16:31:45,951 - INFO - Saved evaluation results to ../results/asap_3_20250504_163145
+2025-05-04 16:31:45,951 - INFO - Completed processing essay: ../datasets/asap_essay_set_3.jsonl
+2025-05-04 16:31:47,947 - INFO - Loading dataset from ../datasets/asap_essay_set_4.jsonl
+2025-05-04 16:31:48,064 - INFO - Loaded 10 samples from dataset
+2025-05-04 16:31:48,064 - INFO - Processing essay: ../datasets/asap_essay_set_4.jsonl
+2025-05-04 16:31:48,065 - INFO - Evaluating 10 essays
+2025-05-04 16:49:06,678 - INFO - Analyzing evaluation results
+2025-05-04 16:49:06,693 - INFO - Completed analysis of evaluation results
+2025-05-04 16:49:06,713 - INFO - Saved evaluation results to ../results/asap_4_20250504_164906
+2025-05-04 16:49:06,713 - INFO - Completed processing essay: ../datasets/asap_essay_set_4.jsonl
+2025-05-04 16:49:08,662 - INFO - Loading dataset from ../datasets/asap_essay_set_5.jsonl
+2025-05-04 16:49:08,755 - INFO - Loaded 10 samples from dataset
+2025-05-04 16:49:08,755 - INFO - Processing essay: ../datasets/asap_essay_set_5.jsonl
+2025-05-04 16:49:08,755 - INFO - Evaluating 10 essays
+2025-05-04 17:06:47,596 - ERROR - Error parsing JSON response from persona Ms. Caroline Hayes's scoring generation.
+2025-05-04 17:06:47,597 - WARNING - Skipping: Scoring failed.
+2025-05-04 17:06:47,597 - WARNING - Skipping essay 9: Evaluation failed. Probably because of parssing issue.
+2025-05-04 17:06:47,598 - INFO - Analyzing evaluation results
+2025-05-04 17:06:47,608 - INFO - Completed analysis of evaluation results
+2025-05-04 17:06:47,636 - INFO - Saved evaluation results to ../results/asap_5_20250504_170647
+2025-05-04 17:06:47,636 - INFO - Completed processing essay: ../datasets/asap_essay_set_5.jsonl
+2025-05-04 17:06:51,479 - INFO - Loading dataset from ../datasets/asap_essay_set_6.jsonl
+2025-05-04 17:06:51,749 - INFO - Loaded 10 samples from dataset
+2025-05-04 17:06:51,749 - INFO - Processing essay: ../datasets/asap_essay_set_6.jsonl
+2025-05-04 17:06:51,749 - INFO - Evaluating 10 essays
+2025-05-04 17:25:58,324 - INFO - Analyzing evaluation results
+2025-05-04 17:25:58,337 - INFO - Completed analysis of evaluation results
+2025-05-04 17:25:58,366 - INFO - Saved evaluation results to ../results/asap_6_20250504_172558
+2025-05-04 17:25:58,366 - INFO - Completed processing essay: ../datasets/asap_essay_set_6.jsonl
+2025-05-04 17:26:00,346 - INFO - Loading dataset from ../datasets/asap_essay_set_7.jsonl
+2025-05-04 17:26:00,381 - INFO - Loaded 10 samples from dataset
+2025-05-04 17:26:00,381 - INFO - Processing essay: ../datasets/asap_essay_set_7.jsonl
+2025-05-04 17:26:00,382 - INFO - Evaluating 10 essays
+2025-05-04 17:43:34,666 - INFO - Analyzing evaluation results
+2025-05-04 17:43:34,682 - INFO - Completed analysis of evaluation results
+2025-05-04 17:43:34,703 - INFO - Saved evaluation results to ../results/asap_7_20250504_174334
+2025-05-04 17:43:34,703 - INFO - Completed processing essay: ../datasets/asap_essay_set_7.jsonl
+2025-05-04 17:43:36,644 - INFO - Loading dataset from ../datasets/asap_essay_set_8.jsonl
+2025-05-04 17:43:36,737 - INFO - Loaded 10 samples from dataset
+2025-05-04 17:43:36,737 - INFO - Processing essay: ../datasets/asap_essay_set_8.jsonl
+2025-05-04 17:43:36,737 - INFO - Evaluating 10 essays
+2025-05-04 17:55:33,406 - ERROR - Error parsing JSON response from persona Ms. Clara Benson's scoring generation.
+2025-05-04 17:55:33,406 - WARNING - Skipping: Scoring failed.
+2025-05-04 17:55:33,406 - WARNING - Skipping essay 6: Evaluation failed. Probably because of parssing issue.
+2025-05-04 17:58:38,673 - ERROR - Error parsing JSON response from persona Dr. Samuel Ortiz's scoring generation.
+2025-05-04 17:58:38,673 - WARNING - Skipping: Scoring failed.
+2025-05-04 17:58:38,674 - WARNING - Skipping essay 8: Evaluation failed. Probably because of parssing issue.
+2025-05-04 18:00:38,774 - INFO - Analyzing evaluation results
+2025-05-04 18:00:38,786 - INFO - Completed analysis of evaluation results
+2025-05-04 18:00:38,798 - INFO - Saved evaluation results to ../results/asap_8_20250504_180038
+2025-05-04 18:00:38,798 - INFO - Completed processing essay: ../datasets/asap_essay_set_8.jsonl
+2025-05-05 07:55:12,135 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 07:55:12,248 - INFO - Loaded 10 samples from dataset
+2025-05-05 07:55:12,248 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 07:55:12,248 - INFO - Evaluating 10 essays
+2025-05-05 07:59:30,617 - ERROR - Error parsing JSON response from persona Dr. Marcus Nguyen's scoring generation.
+2025-05-05 07:59:30,617 - WARNING - Skipping: Scoring failed.
+2025-05-05 07:59:30,618 - WARNING - Skipping essay 1: Evaluation failed. Probably because of parssing issue.
+2025-05-05 08:13:06,297 - ERROR - Error parsing JSON response from persona Ms. Laura Bennett's scoring generation.
+2025-05-05 08:13:06,297 - WARNING - Skipping: Scoring failed.
+2025-05-05 08:13:06,297 - WARNING - Skipping essay 7: Evaluation failed. Probably because of parssing issue.
+2025-05-05 08:18:38,237 - INFO - Analyzing evaluation results
+2025-05-05 08:18:38,245 - INFO - Completed analysis of evaluation results
+2025-05-05 08:18:38,272 - INFO - Saved evaluation results to ../results/asap_1_20250505_081838
+2025-05-05 08:18:38,272 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 08:18:42,352 - INFO - Loading dataset from ../datasets/asap_essay_set_2.jsonl
+2025-05-05 08:18:42,820 - INFO - Loaded 10 samples from dataset
+2025-05-05 08:18:42,820 - INFO - Processing essay: ../datasets/asap_essay_set_2.jsonl
+2025-05-05 08:18:42,820 - INFO - Evaluating 10 essays
+2025-05-05 08:41:19,572 - INFO - Analyzing evaluation results
+2025-05-05 08:41:19,578 - INFO - Completed analysis of evaluation results
+2025-05-05 08:41:19,591 - INFO - Saved evaluation results to ../results/asap_2_20250505_084119
+2025-05-05 08:41:19,592 - INFO - Completed processing essay: ../datasets/asap_essay_set_2.jsonl
+2025-05-05 08:41:21,570 - INFO - Loading dataset from ../datasets/asap_essay_set_3.jsonl
+2025-05-05 08:41:21,658 - INFO - Loaded 10 samples from dataset
+2025-05-05 08:41:21,658 - INFO - Processing essay: ../datasets/asap_essay_set_3.jsonl
+2025-05-05 08:41:21,658 - INFO - Evaluating 10 essays
+2025-05-05 09:01:18,987 - INFO - Analyzing evaluation results
+2025-05-05 09:01:18,994 - INFO - Completed analysis of evaluation results
+2025-05-05 09:01:19,006 - INFO - Saved evaluation results to ../results/asap_3_20250505_090118
+2025-05-05 09:01:19,006 - INFO - Completed processing essay: ../datasets/asap_essay_set_3.jsonl
+2025-05-05 09:01:20,972 - INFO - Loading dataset from ../datasets/asap_essay_set_4.jsonl
+2025-05-05 09:01:21,091 - INFO - Loaded 10 samples from dataset
+2025-05-05 09:01:21,092 - INFO - Processing essay: ../datasets/asap_essay_set_4.jsonl
+2025-05-05 09:01:21,092 - INFO - Evaluating 10 essays
+2025-05-05 09:23:00,260 - INFO - Analyzing evaluation results
+2025-05-05 09:23:00,268 - INFO - Completed analysis of evaluation results
+2025-05-05 09:23:00,294 - INFO - Saved evaluation results to ../results/asap_4_20250505_092300
+2025-05-05 09:23:00,294 - INFO - Completed processing essay: ../datasets/asap_essay_set_4.jsonl
+2025-05-05 09:23:02,247 - INFO - Loading dataset from ../datasets/asap_essay_set_5.jsonl
+2025-05-05 09:23:02,333 - INFO - Loaded 10 samples from dataset
+2025-05-05 09:23:02,333 - INFO - Processing essay: ../datasets/asap_essay_set_5.jsonl
+2025-05-05 09:23:02,333 - INFO - Evaluating 10 essays
+2025-05-05 09:29:36,466 - ERROR - Error parsing JSON response from persona Ms. Karen Whitfield's scoring generation.
+2025-05-05 09:29:36,466 - WARNING - Skipping: Scoring failed.
+2025-05-05 09:29:36,466 - WARNING - Skipping essay 2: Evaluation failed. Probably because of parssing issue.
+2025-05-05 09:43:28,286 - ERROR - Error parsing JSON response from persona Laura Simmons's scoring generation.
+2025-05-05 09:43:28,286 - WARNING - Skipping: Scoring failed.
+2025-05-05 09:43:28,286 - WARNING - Skipping essay 9: Evaluation failed. Probably because of parssing issue.
+2025-05-05 09:43:28,287 - INFO - Analyzing evaluation results
+2025-05-05 09:43:28,294 - INFO - Completed analysis of evaluation results
+2025-05-05 09:43:28,318 - INFO - Saved evaluation results to ../results/asap_5_20250505_094328
+2025-05-05 09:43:28,318 - INFO - Completed processing essay: ../datasets/asap_essay_set_5.jsonl
+2025-05-05 09:43:32,181 - INFO - Loading dataset from ../datasets/asap_essay_set_6.jsonl
+2025-05-05 09:43:32,419 - INFO - Loaded 10 samples from dataset
+2025-05-05 09:43:32,420 - INFO - Processing essay: ../datasets/asap_essay_set_6.jsonl
+2025-05-05 09:43:32,420 - INFO - Evaluating 10 essays
+2025-05-05 09:59:36,209 - ERROR - Error parsing JSON response from persona Jessica Tran's scoring generation.
+2025-05-05 09:59:36,209 - WARNING - Skipping: Scoring failed.
+2025-05-05 09:59:36,209 - WARNING - Skipping essay 7: Evaluation failed. Probably because of parssing issue.
+2025-05-05 10:03:58,656 - INFO - Analyzing evaluation results
+2025-05-05 10:03:58,666 - INFO - Completed analysis of evaluation results
+2025-05-05 10:03:58,695 - INFO - Saved evaluation results to ../results/asap_6_20250505_100358
+2025-05-05 10:03:58,695 - INFO - Completed processing essay: ../datasets/asap_essay_set_6.jsonl
+2025-05-05 10:04:01,122 - INFO - Loading dataset from ../datasets/asap_essay_set_7.jsonl
+2025-05-05 10:04:01,155 - INFO - Loaded 10 samples from dataset
+2025-05-05 10:04:01,155 - INFO - Processing essay: ../datasets/asap_essay_set_7.jsonl
+2025-05-05 10:04:01,155 - INFO - Evaluating 10 essays
+2025-05-05 10:23:20,626 - INFO - Analyzing evaluation results
+2025-05-05 10:23:20,635 - INFO - Completed analysis of evaluation results
+2025-05-05 10:23:20,664 - INFO - Saved evaluation results to ../results/asap_7_20250505_102320
+2025-05-05 10:23:20,665 - INFO - Completed processing essay: ../datasets/asap_essay_set_7.jsonl
+2025-05-05 10:23:24,625 - INFO - Loading dataset from ../datasets/asap_essay_set_8.jsonl
+2025-05-05 10:23:24,858 - INFO - Loaded 10 samples from dataset
+2025-05-05 10:23:24,859 - INFO - Processing essay: ../datasets/asap_essay_set_8.jsonl
+2025-05-05 10:23:24,859 - INFO - Evaluating 10 essays
+2025-05-05 10:46:08,712 - ERROR - Error parsing JSON response from persona Ms. Laura Bennett's scoring generation.
+2025-05-05 10:46:08,713 - WARNING - Skipping: Scoring failed.
+2025-05-05 10:46:08,713 - WARNING - Skipping essay 9: Evaluation failed. Probably because of parssing issue.
+2025-05-05 10:46:08,713 - INFO - Analyzing evaluation results
+2025-05-05 10:46:08,723 - INFO - Completed analysis of evaluation results
+2025-05-05 10:46:08,745 - INFO - Saved evaluation results to ../results/asap_8_20250505_104608
+2025-05-05 10:46:08,745 - INFO - Completed processing essay: ../datasets/asap_essay_set_8.jsonl
+2025-05-05 15:07:25,020 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:07:25,126 - INFO - Loaded 1 samples from dataset
+2025-05-05 15:07:25,126 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:07:25,126 - INFO - Evaluating 1 essays
+2025-05-05 15:07:26,440 - INFO - Analyzing evaluation results
+2025-05-05 15:08:32,907 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:08:33,006 - INFO - Loaded 1 samples from dataset
+2025-05-05 15:08:33,006 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:08:33,006 - INFO - Evaluating 1 essays
+2025-05-05 15:08:34,060 - INFO - Analyzing evaluation results
+2025-05-05 15:08:34,063 - INFO - Completed analysis of evaluation results
+2025-05-05 15:08:34,065 - INFO - Saved evaluation results to ../results/asap_1_20250505_150834
+2025-05-05 15:08:34,065 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:18:31,759 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:18:31,997 - INFO - Loaded 1 samples from dataset
+2025-05-05 15:18:31,998 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:18:31,998 - INFO - Evaluating 1 essays
+2025-05-05 15:18:33,016 - INFO - Analyzing evaluation results
+2025-05-05 15:18:33,019 - INFO - Completed analysis of evaluation results
+2025-05-05 15:18:33,020 - INFO - Saved evaluation results to ../results/20250505_1518/asap_1_20250505_151833
+2025-05-05 15:18:33,020 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:19:05,515 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:19:05,615 - INFO - Loaded 5 samples from dataset
+2025-05-05 15:19:05,615 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:19:05,615 - INFO - Evaluating 5 essays
+2025-05-05 15:19:10,068 - INFO - Analyzing evaluation results
+2025-05-05 15:19:10,072 - INFO - Completed analysis of evaluation results
+2025-05-05 15:19:10,074 - INFO - Saved evaluation results to ../results/20250505_1519/asap_1_20250505_151910
+2025-05-05 15:19:10,074 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:20:43,647 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:20:43,755 - INFO - Loaded 5 samples from dataset
+2025-05-05 15:20:43,755 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:20:43,755 - INFO - Evaluating 5 essays
+2025-05-05 15:20:53,736 - INFO - Analyzing evaluation results
+2025-05-05 15:20:53,739 - INFO - Completed analysis of evaluation results
+2025-05-05 15:20:53,742 - INFO - Saved evaluation results to ../results/20250505_1520/asap_1_20250505_152053
+2025-05-05 15:20:53,742 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:25:55,232 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:25:55,330 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:25:55,331 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:25:55,331 - INFO - Evaluating 10 essays
+2025-05-05 15:26:08,906 - INFO - Analyzing evaluation results
+2025-05-05 15:26:08,908 - INFO - Completed analysis of evaluation results
+2025-05-05 15:26:08,910 - INFO - Saved evaluation results to ../results/asap_1_20250505_152608
+2025-05-05 15:26:08,910 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-05 15:26:10,856 - INFO - Loading dataset from ../datasets/asap_essay_set_2.jsonl
+2025-05-05 15:26:11,070 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:26:11,070 - INFO - Processing essay: ../datasets/asap_essay_set_2.jsonl
+2025-05-05 15:26:11,070 - INFO - Evaluating 10 essays
+2025-05-05 15:26:23,511 - INFO - Analyzing evaluation results
+2025-05-05 15:26:23,514 - INFO - Completed analysis of evaluation results
+2025-05-05 15:26:23,518 - INFO - Saved evaluation results to ../results/asap_2_20250505_152623
+2025-05-05 15:26:23,518 - INFO - Completed processing essay: ../datasets/asap_essay_set_2.jsonl
+2025-05-05 15:26:25,459 - INFO - Loading dataset from ../datasets/asap_essay_set_3.jsonl
+2025-05-05 15:26:25,553 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:26:25,553 - INFO - Processing essay: ../datasets/asap_essay_set_3.jsonl
+2025-05-05 15:26:25,553 - INFO - Evaluating 10 essays
+2025-05-05 15:26:44,776 - INFO - Analyzing evaluation results
+2025-05-05 15:26:44,779 - INFO - Completed analysis of evaluation results
+2025-05-05 15:26:44,782 - INFO - Saved evaluation results to ../results/asap_3_20250505_152644
+2025-05-05 15:26:44,782 - INFO - Completed processing essay: ../datasets/asap_essay_set_3.jsonl
+2025-05-05 15:26:46,722 - INFO - Loading dataset from ../datasets/asap_essay_set_4.jsonl
+2025-05-05 15:26:46,836 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:26:46,837 - INFO - Processing essay: ../datasets/asap_essay_set_4.jsonl
+2025-05-05 15:26:46,837 - INFO - Evaluating 10 essays
+2025-05-05 15:27:08,792 - INFO - Analyzing evaluation results
+2025-05-05 15:27:08,795 - INFO - Completed analysis of evaluation results
+2025-05-05 15:27:08,797 - INFO - Saved evaluation results to ../results/asap_4_20250505_152708
+2025-05-05 15:27:08,798 - INFO - Completed processing essay: ../datasets/asap_essay_set_4.jsonl
+2025-05-05 15:27:10,761 - INFO - Loading dataset from ../datasets/asap_essay_set_5.jsonl
+2025-05-05 15:27:10,856 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:27:10,856 - INFO - Processing essay: ../datasets/asap_essay_set_5.jsonl
+2025-05-05 15:27:10,856 - INFO - Evaluating 10 essays
+2025-05-05 15:27:28,292 - INFO - Analyzing evaluation results
+2025-05-05 15:27:28,295 - INFO - Completed analysis of evaluation results
+2025-05-05 15:27:28,298 - INFO - Saved evaluation results to ../results/asap_5_20250505_152728
+2025-05-05 15:27:28,299 - INFO - Completed processing essay: ../datasets/asap_essay_set_5.jsonl
+2025-05-05 15:27:30,223 - INFO - Loading dataset from ../datasets/asap_essay_set_6.jsonl
+2025-05-05 15:27:30,365 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:27:30,365 - INFO - Processing essay: ../datasets/asap_essay_set_6.jsonl
+2025-05-05 15:27:30,365 - INFO - Evaluating 10 essays
+2025-05-05 15:27:55,557 - INFO - Analyzing evaluation results
+2025-05-05 15:27:55,561 - INFO - Completed analysis of evaluation results
+2025-05-05 15:27:55,563 - INFO - Saved evaluation results to ../results/asap_6_20250505_152755
+2025-05-05 15:27:55,563 - INFO - Completed processing essay: ../datasets/asap_essay_set_6.jsonl
+2025-05-05 15:27:57,512 - INFO - Loading dataset from ../datasets/asap_essay_set_7.jsonl
+2025-05-05 15:27:57,546 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:27:57,546 - INFO - Processing essay: ../datasets/asap_essay_set_7.jsonl
+2025-05-05 15:27:57,546 - INFO - Evaluating 10 essays
+2025-05-05 15:28:12,689 - INFO - Analyzing evaluation results
+2025-05-05 15:28:12,691 - INFO - Completed analysis of evaluation results
+2025-05-05 15:28:12,692 - INFO - Saved evaluation results to ../results/asap_7_20250505_152812
+2025-05-05 15:28:12,692 - INFO - Completed processing essay: ../datasets/asap_essay_set_7.jsonl
+2025-05-05 15:28:14,719 - INFO - Loading dataset from ../datasets/asap_essay_set_8.jsonl
+2025-05-05 15:28:14,826 - INFO - Loaded 10 samples from dataset
+2025-05-05 15:28:14,826 - INFO - Processing essay: ../datasets/asap_essay_set_8.jsonl
+2025-05-05 15:28:14,826 - INFO - Evaluating 10 essays
+2025-05-05 15:28:27,456 - INFO - Analyzing evaluation results
+2025-05-05 15:28:27,458 - INFO - Completed analysis of evaluation results
+2025-05-05 15:28:27,461 - INFO - Saved evaluation results to ../results/asap_8_20250505_152827
+2025-05-05 15:28:27,462 - INFO - Completed processing essay: ../datasets/asap_essay_set_8.jsonl
+2025-05-06 10:00:08,813 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-06 10:00:08,944 - INFO - Loaded 50 samples from dataset
+2025-05-06 10:00:08,944 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-06 10:00:08,944 - INFO - Evaluating 50 essays
+2025-05-06 10:01:12,745 - INFO - Analyzing evaluation results
+2025-05-06 10:01:12,750 - INFO - Completed analysis of evaluation results
+2025-05-06 10:01:12,762 - INFO - Saved evaluation results to ../results/asap_1_20250506_100112
+2025-05-06 10:01:12,763 - INFO - Completed processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-06 10:04:01,717 - INFO - Loading dataset from ../datasets/asap_essay_set_1.jsonl
+2025-05-06 10:04:01,817 - INFO - Loaded 50 samples from dataset
+2025-05-06 10:04:01,817 - INFO - Processing essay: ../datasets/asap_essay_set_1.jsonl
+2025-05-06 10:04:01,817 - INFO - Evaluating 50 essays
+2025-05-06 10:26:29,595 - ERROR - Error parsing JSON response from persona Ms. Laura Jenkins's scoring generation.
+2025-05-06 10:26:29,596 - WARNING - Skipping: Scoring failed.
+2025-05-06 10:26:29,596 - WARNING - Skipping essay 7: Evaluation failed. Probably because of parssing issue.
